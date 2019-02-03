@@ -17,6 +17,7 @@ h1 {
 }
 
 #closing {
+	text-align: center;
 	font-family: "Comic Sans MS";
 	background-color: gray;
 	color: orange;
