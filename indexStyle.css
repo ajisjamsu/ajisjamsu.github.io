@@ -1,5 +1,11 @@
 /* Stylesheet for ajisjamsu - personal site */
 
+h1 {
+	text-align: center;
+	color: #967;
+	font-size: 72px;
+}
+
 #header {
     font-family: "Arial";
     color: green;
@@ -12,6 +18,6 @@
 
 #closing {
 	font-family: "Comic Sans MS";
-	background-color: black;
+	background-color: gray;
 	color: orange;
 }
