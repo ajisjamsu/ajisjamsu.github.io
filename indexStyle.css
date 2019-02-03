@@ -1,0 +1,17 @@
+/* Stylesheet for ajisjamsu - personal site */
+
+#header {
+    font-family: "Arial";
+    color: green;
+}
+
+#mainbody {
+	font-family: "Arial";
+    color: brown;
+}
+
+#closing {
+	font-family: "Comic Sans MS";
+	background-color: black;
+	color: orange;
+}
