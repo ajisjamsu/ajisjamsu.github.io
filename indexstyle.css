@@ -6,6 +6,16 @@ h1 {
 	font-size: 72px;
 }
 
+h3{
+	color: Navy;
+}
+
+.skill {
+	font-family: "Arial";
+	font-weight: bold;
+	color: green;
+}
+
 #header {
     font-family: "Arial";
     color: green;
