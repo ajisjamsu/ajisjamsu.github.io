@@ -1,34 +1,38 @@
 /* Stylesheet for ajisjamsu - personal site */
-
 h1 {
 	text-align: center;
-	color: #967;
+	color: #E07A5F;
 	font-size: 72px;
 }
 
 h3{
-	color: Navy;
+	color: #3D405B;
 }
 
 .skill {
 	font-family: "Arial";
 	font-weight: bold;
-	color: green;
+	color: #69AA8B;
 }
 
 #header {
     font-family: "Arial";
-    color: green;
+    color: #69AA8B;
 }
 
 #mainbody {
 	font-family: "Arial";
-    color: brown;
+    color: #7A6748;
 }
 
 #closing {
 	text-align: center;
 	font-family: "Comic Sans MS";
-	background-color: gray;
 	color: orange;
 }
+
+#homelink {
+	text-align: center;
+}
+
+* {background-color: #F4F1DE}
