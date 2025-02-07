@@ -7,23 +7,9 @@ layout: default
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
-
   <!-- Website Description Textbox -->
-  <div readonly style="
-    width: 100%;
-    padding: 15px;
-    border: 2px solid grey;
-    border-radius: 10px;
-    background: transparent;
-    color: inherit;
-    font-size: 1.2em;
-    box-sizing: border-box;
-    text-align: center;
-    margin: 20px 0;
-  ">
-    Welcome to my personal website! Here, I share my thoughts, projects, and updates on topics that interest me. Feel
-    free to explore and connect!
+  <div class="center-box">
+    {{ content }}
   </div>
 
   {%- if site.posts.size > 0 -%}

@@ -185,6 +185,19 @@
   @include relative-font-size(2);
 }
 
+.center-box {
+  @include relative-font-size(1.2);
+  width: 100%;
+  padding: 15px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  background: transparent;
+  color: inherit;
+  box-sizing: border-box;
+  text-align: left;
+  margin: 20px 0;
+}
+
 .post-list-heading {
   @include relative-font-size(1.75);
 }
